@@ -2,7 +2,8 @@
 
 ## A little introduction
 
-Hi there! My name is NotMagniill and I'm currently coding with ![HaxeFlixel](https://haxeflixel.com/images/haxeflixel-header.png)
+Hi there! My name is NotMagniill and I'm currently coding with ![](https://haxeflixel.com/images/haxeflixel-header.png)
+
 I mostly make random FNF mods (because their pretty easy to make tho) now i'm working on a few mods
 
 ## Projects
