@@ -9,4 +9,4 @@ Sup bro! I'm just a stupid programmer. <br>
 <img title="Haxe" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/240px-Haxe_logo.svg.png" width="48"/>,
 <img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>,
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Magniill&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=notmagniill&show_icons=true&theme=merko)
